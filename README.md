@@ -1,6 +1,4 @@
-# [Generative AI on AWS](https://www.amazon.com/Generative-AI-AWS-Multimodal-Applications/dp/1098159225/) by O'Reilly Media
 
-[![](img/gaia_book_cover_sm.png)](https://www.amazon.com/Generative-AI-AWS-Multimodal-Applications/dp/1098159225/)
 
 * [Chapter 1](/01_intro) - Generative AI Use Cases, Fundamentals, Project Lifecycle
 * [Chapter 2](/02_prompt) - Prompt Engineering and In-Context Learning
